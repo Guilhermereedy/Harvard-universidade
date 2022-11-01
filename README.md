@@ -1,2 +1,3 @@
 # Harvard-universidade
-Criação simples de um site baseado, na universidade de Harvard
+Criação simples de uma página baseada, na universidade de Harvard.
+Fique a vontade!!! Obrigado por visitar.....
